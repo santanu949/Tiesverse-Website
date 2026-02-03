@@ -15,7 +15,7 @@ This website demonstrates how individual web technologies work together to creat
 
 ## 🎯 Features
 - Clean and simple user interface  
-- Responsive layout using CSS  
+- Responsive layout using Tailwind CSS  
 - Basic JavaScript functionality for interaction  
 - Multi-section webpage design  
 
